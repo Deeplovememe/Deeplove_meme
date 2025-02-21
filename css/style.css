@@ -130,3 +130,10 @@ ol, ul {
 	color: #fff;
 	text-decoration: none;
 }
+.content img {
+    width: 150px;
+    margin-bottom: 20px; 
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
